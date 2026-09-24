@@ -13,7 +13,7 @@
       Example Webpage
     </header>
     <nav>
-      <a href="writing/index.html">Writing</a>
+      <a href="writing/index2.html">Writing</a>
       <a href="index.html">About</a>
     </nav>
     <article>
