@@ -1,5 +1,3 @@
-# papomaster.github.io
-webpage, iteration 2
 <!DOCTYPE html>
 <html lang="en">
   <head>
